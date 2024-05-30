@@ -1,0 +1,13 @@
+#### Ignorer des fichiers au complet ####
+
+.vs/
+obj/
+bin/
+
+#### Ignorer les tous fichers avec une extension spécifique ####
+
+*.pc
+
+#### Ignorer un fichier spécifique ####
+
+ex.txt
